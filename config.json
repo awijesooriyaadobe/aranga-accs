@@ -34,6 +34,18 @@
           "rootCategory": "2"
         }
       }
-    }
+    },
+    "/au/": {
+        "headers": {
+           "all": {
+              "Store": "au"
+           },
+           "cs": {
+              "Magento-Store-Code": "au",
+              "Magento-Website-Code": "au",
+              "Magento-Store-View-Code": "au"
+           }
+        }
+     }
   }
 }
